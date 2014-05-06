@@ -4,15 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>interview.xcscheme</key>
+		<key>Stack.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>257F04971917885900EEEE0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>257F04A71917887800EEEE0A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
